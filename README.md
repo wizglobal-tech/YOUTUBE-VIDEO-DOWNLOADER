@@ -12,15 +12,9 @@ A simple, interactive YouTube video downloader built with **Python** and **Strea
 - Fast and simple interface powered by Streamlit
 - Works on desktop and mobile
 
-## How to Use 🎮
-1. Input the amount you wish to convert.
-2. Select the currencies you want to convert from and to.
-3. Click the "Convert" button to see the results!
-
-
 ## Screenshots 📸
 | Image 1 | Image 2 | Image 3 |
-|------------------|----------------|
+|------------------|----------------|----------------|
 | ![Home Page](screenshots/home-page.png) | ![Get Video](screenshots/get-video.png) | ![Progress](screenshots/progress.png)
 
 ## Tech Stack 🛠
