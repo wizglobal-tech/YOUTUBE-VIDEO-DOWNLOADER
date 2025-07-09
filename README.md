@@ -19,9 +19,9 @@ A simple, interactive YouTube video downloader built with **Python** and **Strea
 
 
 ## Screenshots 📸
-| Enter Amount | Convert Currency |
+| Image 1 | Image 2 | Image 3 |
 |------------------|----------------|
-| ![Enter Amount](screenshots/image1.png) | ![Convert Currency](screenshots/image2.png) |
+| ![Home Page](screenshots/home-page.png) | ![Get Video](screenshots/get-video.png) | ![Progress](screenshots/progress.png)
 
 ## Tech Stack 🛠
 - *Frontend*: Streamlit
